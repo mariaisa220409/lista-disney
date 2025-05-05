@@ -1,0 +1,17 @@
+*{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#lista-disney {
+    font-size: 18px;
+    color: pink;
+    background-color: white;  
+}
+
+#lista-vilas {
+    font-style: italic;
+    font-size: 18px;
+   background: plum;
+   color: aliceblue;  
+   list-style-type: square;
+}
